@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bb84a79-f9e2-4725-a7f4-8c6d9924a0f2" name="Changes" comment="" />
+    <list default="true" id="3bb84a79-f9e2-4725-a7f4-8c6d9924a0f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/office-microservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Office.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/JatinPandey/employee/FeignClients/AddressClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/employee/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/JatinPandey/employee/BeanConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/JatinPandey/employee/BeanConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/JatinPandey/employee/EmployeeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/JatinPandey/employee/EmployeeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/JatinPandey/employee/ServiceImpl/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/JatinPandey/employee/ServiceImpl/EmployeeService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +59,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -61,7 +73,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
-    "spring.configuration.checksum": "fa5473530e4d1a5a1e1eb53d2fedb10c",
+    "spring.configuration.checksum": "7374390cd25f5943a576fcf9c8cd1959",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -86,12 +98,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EmployeeApplication">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.AddressApplication">
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <method v="2">
@@ -99,6 +106,8 @@
       </method>
     </configuration>
     <configuration name="AddressApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="address" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.JatinPandey.address.AddressApplication" />
       <method v="2">
@@ -129,6 +138,8 @@
       <workItem from="1695365324710" duration="767000" />
       <workItem from="1695366108840" duration="42000" />
       <workItem from="1695366172861" duration="5547000" />
+      <workItem from="1695569939203" duration="3075000" />
+      <workItem from="1695573038926" duration="476000" />
     </task>
     <servers />
   </component>
